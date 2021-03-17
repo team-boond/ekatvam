@@ -2116,5 +2116,10 @@ blockquote {
         margin-top: 0; } }
 
 /*===========================
-        03.ABOUT css 
+        Supported by
 ===========================*/
+
+.suppported-by{
+  display: flex;
+  justify-content: center;
+}
